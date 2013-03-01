@@ -1,5 +1,10 @@
 # Notatki do Technologii Intenetowych
 
+<blockquote>
+<p><i> Dzień bez kodowania jest dniem straconym.</i>
+<p> Włodek Bzyl
+</blockquote>
+
 Znaczniki:
 * p
 * ul, l
