@@ -1,4 +1,6 @@
+
 Zadanie 2
+
 ```C
 a=pi/2
 b=0.366*pi
@@ -10,7 +12,8 @@ x=sqrt(4*exp(12.4))/(2*tan(pi*0.47))
 
 a=pi/2
 b=0.366*pi
-z=(cos(a)+cos(b))-(2*cos(0.5*(a+b)))*(cos(0.5*(a-b)))
+z=(cos(a)+cos(b))-(2*cos(0.5*(a+b)))*(cos(0.5*(a-b)));
+
 ```
 Zadanie 3
 ```C
