@@ -1,5 +1,5 @@
 Zadanie 2
-'''c
+'''C
 a=pi/2
 b=0.366*pi
 x=(-log(2.4)+sqrt(sin(4)-4*exp(3.4)))/(2*pi)
@@ -13,7 +13,7 @@ b=0.366*pi
 z=(cos(a)+cos(b))-(2*cos(0.5*(a+b)))*(cos(0.5*(a-b)))
 '''
 Zadanie 3
-'''c
+'''C
 a=[1 2 3]
 b=[1,2,3]
 c=[1;2;3]
@@ -32,7 +32,7 @@ e=[1:10]
 e=[1:.1:10]
 '''
 Zadanie 4
-'''c
+'''C
 a=[1:5]
 a(1),a(2)
 a(10)=123%co sie stanie, przecez a ma rozmiar 5
