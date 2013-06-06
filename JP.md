@@ -1,11 +1,6 @@
 # JĘZYKI PROGRAMOWANIA
 
 
-int main() {
-  printf("witaj świecie\n");
-}
-
-
 <blockquote>
 <p> <i> Zamiana z Farenthajda na Celsjusza ale zmiennoprzecinkowe wyniki </i>
 </blockquote>
@@ -30,8 +25,12 @@ return 0;
 }           
 ```
 
+<blockquote>
 
-Zamiana z Farenthajda na Celsjusza ale zmiennoprzecinkowe wyniki i liczby są wypisane przecinek po przecinku
+<p> <i> Zamiana z Farenthajda na Celsjusza ale zmiennoprzecinkowe wyniki i liczby są wypisane przecinek po przecinku </i>
+</blockquote>
+
+```html
 
 #include<stdio.h>
  int main(){
@@ -49,8 +48,13 @@ Zamiana z Farenthajda na Celsjusza ale zmiennoprzecinkowe wyniki i liczby są wy
       getchar();
 return 0;
 }
-   _______________________________________________
-Zamiana z Farenthajda na Celsjusza ale na pętla
+```
+
+<blocquote>
+<p> <i>Zamiana z Farenthajda na Celsjusza ale na pętla </i>
+</blockquote>
+
+```html
 #include<stdio.h>
 #define LOWER 0
 #define UPPER 300
@@ -62,9 +66,13 @@ int main (){
       getchar();
 return 0;
 }
+```
 
-Mnożenie, dzielenie, dodawanie, odejmowanie. Wszystko razem.
+<blockquote>
+<p> <i>Mnożenie, dzielenie, dodawanie, odejmowanie. Wszystko razem.</i>
+</blockquote>
 
+```html
 #include <stdio.h>
 
 int main(){
@@ -77,6 +85,8 @@ int main(){
   printf("%d / %d = %d\n", a,b, a/b);
   getchar();
   return 0;
+  
+```
 
 Wynik:
 10-5=5
@@ -84,11 +94,13 @@ Wynik:
 10x5=50
 10/5=2
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<blockquote>
+<p> <i>Dzielenie, aby dobrze policzył trzeba zamienić na typ zmiennoprzecinkowy. Program wyświetli 6 cyfr po przecinku. </i>
+</blocquote>
 
 
-Dzielenie, aby dobrze policzył trzeba zamienić na typ zmiennoprzecinkowy. Program wyświetli 6 cyfr po przecinku.
-
+```html
 #include <stdio.h>
 
 int main(){
@@ -99,11 +111,13 @@ int main(){
   return 0;
        
 }
+```
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<blockquote>
+<p> <i>Dodawanie, aby wyświetlił brak licz po przecinku: </i>
+</blockquote>
 
-Dodawanie, aby wyświetlił brak licz po przecinku:
-
+```html
 #include <stdio.h>
 
 int main(){
@@ -114,11 +128,13 @@ int main(){
   return 0;
     
 }
+```
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<blockquote>
+<p> <i>Obliczanie długości okręgu
+</blockquote>
 
-Obliczanie długości okręgu
-
+```html
 #include <stdio.h>
 #include <math.h>
 
@@ -130,9 +146,12 @@ int main(){
   return 0;
    
 }
+```
 
+<blockquote>
+<p> <i> Oblicza na raz pole powierzchni o obwód : </i>
+</blockquote>
 
-Oblicza na raz pole powierzchni o obwód :
 
 #include <stdio.h>
 #include <math.h>
