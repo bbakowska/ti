@@ -96,21 +96,6 @@ Wynik:
 
 
 <blockquote>
-<p> <i>Dzielenie, aby dobrze policzył trzeba zamienić na typ zmiennoprzecinkowy. Program wyświetli 6 cyfr po przecinku. </i>
-</blocquote>
-
-
-```html
-#include <stdio.h>
-int main(){
-    double a=3.0, b=7.0;
-    printf ("%lf : %lf = %lf \n", a,b, a/b);
-  getchar();
-  return 0;
-}
-```
-
-<blockquote>
 <p> <i>Dodawanie, aby wyświetlił brak licz po przecinku: </i>
 </blockquote>
 
@@ -149,7 +134,7 @@ int main(){
 <p> <i> Oblicza na raz pole powierzchni o obwód : </i>
 </blockquote>
 
-
+```html
 #include <stdio.h>
 #include <math.h>
 
@@ -161,11 +146,12 @@ int main(){
   getchar();
     
 }
+```
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+<blockquote>
+<p> <i> Przeliczanie temperatury Farenhaita na Celsiusza </i>
 
-Przeliczanie temperatury Farenhaita na Celsiusza
-
+```html
 #include <stdio.h>
 int main () {
          int fahr, celsius;
@@ -182,10 +168,13 @@ int main () {
          getchar ();
          return 0;
          }
+```         
 
+<blockquote>
+<p> <i>Większa dokładność, zmiana na zmiennoprzecinkowe </i>
+</blockquote>
 
-Większa dokładność, zmiana na zmiennoprzecinkowe
-
+```html
 #include <stdio.h>
 int main () {
          double fahr, celsius;
@@ -202,10 +191,12 @@ int main () {
          getchar ();
          return 0;
          }
+```
 
+<blockquote>
+<p> <i> Żeby się równo wypisywało </i>
 
-Żeby się równo wypisywało
-
+```html
 #include <stdio.h>
 int main () {
          double fahr, celsius;
@@ -222,11 +213,13 @@ int main () {
          getchar ();
          return 0;
          }
+```
 
-------------------------------------------------------------------------------------------------------------------------------------
+<blockquote>
+<p> <i> Wpisywanie stałych dla preprocesora </i>
+</blockquote>
 
-Wpisywanie stałych dla preprocesora
-
+```html
 #include <stdio.h>
 # define LOWER 0
 # define UPPER 300
@@ -238,3 +231,4 @@ int main () {
          getchar ();
          return 0;
 }
+```
