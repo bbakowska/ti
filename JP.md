@@ -1,10 +1,16 @@
-# JP
+# JĘZYKI PROGRAMOWANIA
 
-```c
+
 int main() {
   printf("witaj świecie\n");
 }
-Zamiana z Farenthajda na Celsjusza ale zmiennoprzecinkowe wyniki
+
+
+<blockquote>
+<p> <i> Zamiana z Farenthajda na Celsjusza ale zmiennoprzecinkowe wyniki </i>
+</blockquote>
+
+```html
 
 #include<stdio.h>
  int main(){
@@ -22,6 +28,7 @@ Zamiana z Farenthajda na Celsjusza ale zmiennoprzecinkowe wyniki
       getchar();
 return 0;
 }           
+```
 
 
 Zamiana z Farenthajda na Celsjusza ale zmiennoprzecinkowe wyniki i liczby są wypisane przecinek po przecinku
