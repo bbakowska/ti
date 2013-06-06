@@ -102,14 +102,11 @@ Wynik:
 
 ```html
 #include <stdio.h>
-
 int main(){
     double a=3.0, b=7.0;
     printf ("%lf : %lf = %lf \n", a,b, a/b);
-
   getchar();
   return 0;
-       
 }
 ```
 
