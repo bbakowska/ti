@@ -25,5 +25,5 @@ Szablon pliku html
 </body>
 </html>
 ```
-[matlab](https://github.com/bbakowska/ti/blob/master/Matlab.md)
-![alt text](http://t3.gstatic.com/images?q=tbn:ANd9GcShMltrkhRM377YXquiigtprerP1XXsW8yrPixfVFTBOOv_k_2T1w)
+[http://t1.gstatic.com/images?q=tbn:ANd9GcRL7ee1xd_eJ7oaAjIAVOpCmKcpBUT_MIGZg5aHeX4RTL0YXYs7PwTrPdq7](https://github.com/bbakowska/ti/blob/master/Matlab.md)
+
