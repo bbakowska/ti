@@ -28,3 +28,4 @@ Szablon pliku html
 []()
 
 [![Matlab](http://t1.gstatic.com/images?q=tbn:ANd9GcRL7ee1xd_eJ7oaAjIAVOpCmKcpBUT_MIGZg5aHeX4RTL0YXYs7PwTrPdq7)](https://github.com/bbakowska/ti/blob/master/Matlab.md)
+https://github.com/bbakowska/ti/blob/master/KNPSIP.md
